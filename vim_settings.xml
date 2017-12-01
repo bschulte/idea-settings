@@ -1,0 +1,452 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/gamedev/monogame/Game2/Rogue.sln" timestamp="1511759841159">
+        <mark key="[" line="5" column="62" />
+        <mark key="]" line="5" column="66" />
+        <mark key="." line="5" column="66" />
+        <mark key="^" line="5" column="66" />
+      </file>
+      <file name="$USER_HOME$/kryptowire/dev/disa-reports/src/generate.js" timestamp="1511795935646">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="^" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+      </file>
+      <file name="$USER_HOME$/gamedev/monogame/Nez/Nez.Portable/Core.cs" timestamp="1511760317492">
+        <mark key="[" line="315" column="12" />
+        <mark key="]" line="315" column="13" />
+        <mark key="^" line="315" column="13" />
+        <mark key="." line="315" column="13" />
+      </file>
+      <file name="$USER_HOME$/kryptowire/dev/androcutter-react/test_data/apk/res/layout/main.xml" timestamp="1511837623466">
+        <mark key="[" line="12" column="79" />
+        <mark key="]" line="12" column="87" />
+        <mark key="^" line="12" column="87" />
+        <mark key="." line="12" column="87" />
+      </file>
+      <file name="$USER_HOME$/kryptowire/dev/androcutter-react/app/utils/codeRemoval.js" timestamp="1511919735905">
+        <mark key="'" line="143" column="22" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="39" />
+        <mark key="^" line="118" column="87" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/gamedev/monogame/Nez/Nez.Portable/Debug/Assert.cs" timestamp="1511718706705">
+        <mark key="[" line="136" column="34" />
+        <mark key="]" line="136" column="33" />
+        <mark key="." line="136" column="33" />
+        <mark key="^" line="136" column="33" />
+      </file>
+      <file name="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/Home.js" timestamp="1511968097663">
+        <mark key="[" line="16" column="18" />
+        <mark key="]" line="12" column="33" />
+        <mark key="." line="16" column="33" />
+        <mark key="^" line="12" column="33" />
+      </file>
+      <file name="$USER_HOME$/gamedev/monogame/Rogue/Rogue/Rogue.cs" timestamp="1511793532448">
+        <mark key="[" line="14" column="43" />
+        <mark key="]" line="14" column="42" />
+        <mark key="." line="14" column="42" />
+        <mark key="^" line="14" column="42" />
+      </file>
+      <file name="$USER_HOME$/kryptowire/dev/androcutter-react/app/utils/analysis.js" timestamp="1511983110563">
+        <mark key="'" line="168" column="37" />
+        <mark key="[" line="84" column="9" />
+        <mark key="]" line="84" column="4" />
+        <mark key="." line="84" column="4" />
+        <mark key="^" line="84" column="4" />
+      </file>
+      <file name="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/DataTables/SmaliFile.js" timestamp="1511978196094">
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="10" column="27" />
+        <mark key="." line="10" column="27" />
+        <mark key="^" line="10" column="27" />
+      </file>
+      <file name="$USER_HOME$/kryptowire/dev/androcutter-react/app/utils/parse.js" timestamp="1511968990702">
+        <mark key="'" line="108" column="21" />
+        <mark key="[" line="44" column="66" />
+        <mark key="]" line="44" column="63" />
+        <mark key="." line="44" column="63" />
+        <mark key="^" line="44" column="63" />
+      </file>
+      <file name="$USER_HOME$/kryptowire/dev/androcutter-react/.eslintrc" timestamp="1511972434562">
+        <mark key="[" line="42" column="27" />
+        <mark key="]" line="43" column="34" />
+        <mark key="." line="43" column="34" />
+        <mark key="^" line="43" column="34" />
+      </file>
+      <file name="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/DataTables/ParamsCell.js" timestamp="1511978770850">
+        <mark key="[" line="3" column="46" />
+        <mark key="]" line="3" column="103" />
+        <mark key="^" line="3" column="103" />
+        <mark key="." line="3" column="103" />
+      </file>
+      <file name="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/Config.js" timestamp="1511976798115">
+        <mark key="[" line="29" column="36" />
+        <mark key="]" line="29" column="36" />
+        <mark key="." line="29" column="36" />
+        <mark key="^" line="29" column="36" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1511976753325">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/Navbar.js" timestamp="1511922244080">
+        <mark key="[" line="15" column="14" />
+        <mark key="]" line="17" column="24" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="13" />
+      </file>
+      <file name="$USER_HOME$/kryptowire/dev/disa-reports/src/Report.js" timestamp="1511796379259">
+        <mark key="[" line="17" column="10" />
+        <mark key="]" line="17" column="9" />
+        <mark key="^" line="17" column="9" />
+        <mark key="." line="17" column="9" />
+      </file>
+      <file name="$USER_HOME$/kryptowire/dev/androcutter-react/test_data/apk/smali/com/google/android/gms/cast/CastDevice.smali" timestamp="1511972981991">
+        <mark key="'" line="97" column="0" />
+      </file>
+      <file name="$USER_HOME$/gamedev/monogame/Rogue/Rogue/Program.cs" timestamp="1511792942280">
+        <mark key="'" line="16" column="18" />
+        <mark key="[" line="19" column="1" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/kryptowire/dev/androcutter-react/node_modules/react-router/index.js" timestamp="1511800138643">
+        <mark key="[" line="3" column="98" />
+        <mark key="]" line="3" column="98" />
+        <mark key="." line="3" column="98" />
+      </file>
+      <file name="$USER_HOME$/kryptowire/dev/androcutter-react/test_data/apk/AndroidManifest.xml" timestamp="1511825358390">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/DataTables/DataTable.js" timestamp="1511978129446">
+        <mark key="[" line="61" column="36" />
+        <mark key="]" line="61" column="49" />
+        <mark key="." line="61" column="49" />
+        <mark key="^" line="61" column="49" />
+      </file>
+      <file name="$USER_HOME$/kryptowire/dev/androcutter-react/app/containers/RemoveUIPage.js" timestamp="1511922296975">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="20" />
+        <mark key="^" line="5" column="20" />
+        <mark key="." line="5" column="20" />
+      </file>
+      <file name="$USER_HOME$/kryptowire/dev/androcutter-react/app/containers/RemoveCodePage.js" timestamp="1511922363213">
+        <mark key="[" line="11" column="23" />
+        <mark key="]" line="11" column="23" />
+        <mark key="^" line="11" column="48" />
+        <mark key="." line="11" column="23" />
+      </file>
+      <file name="$USER_HOME$/kryptowire/dev/androcutter-react/app/.eslintrc" timestamp="1511923179372">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/kryptowire/dev/androcutter-react/app/utils/uiRemoval.js" timestamp="1511920699275">
+        <mark key="[" line="12" column="10" />
+        <mark key="]" line="12" column="33" />
+        <mark key="^" line="12" column="33" />
+        <mark key="." line="12" column="33" />
+      </file>
+      <file name="$USER_HOME$/kryptowire/dev/androcutter-react/app/utils/globals.js" timestamp="1511982922535">
+        <mark key="[" line="8" column="57" />
+        <mark key="]" line="8" column="59" />
+        <mark key="." line="8" column="59" />
+        <mark key="^" line="8" column="59" />
+      </file>
+      <file name="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/DataTables/SmaliFileCell.js" timestamp="1511978467517">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="10" column="27" />
+        <mark key="^" line="3" column="122" />
+        <mark key="." line="3" column="122" />
+      </file>
+      <file name="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/DataTables/MethodCell.js" timestamp="1511978185474">
+        <mark key="'" line="10" column="24" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="10" column="24" />
+        <mark key="." line="10" column="25" />
+        <mark key="^" line="4" column="7" />
+      </file>
+      <file name="$USER_HOME$/kryptowire/dev/androcutter-react/app/utils/config.js" timestamp="1511976736940">
+        <mark key="[" line="11" column="1" />
+        <mark key="]" line="12" column="4" />
+        <mark key="^" line="12" column="4" />
+        <mark key="." line="12" column="4" />
+      </file>
+      <file name="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/Main.js" timestamp="1511921550550">
+        <mark key="[" line="6" column="42" />
+        <mark key="]" line="6" column="55" />
+        <mark key="." line="6" column="55" />
+        <mark key="^" line="6" column="55" />
+      </file>
+      <file name="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/RemoveCode.js" timestamp="1511978704741">
+        <mark key="[" line="141" column="37" />
+        <mark key="]" line="141" column="46" />
+        <mark key="." line="141" column="46" />
+        <mark key="^" line="141" column="46" />
+      </file>
+      <file name="$USER_HOME$/kryptowire/dev/androcutter-react/app/app.global.scss" timestamp="1511978357665">
+        <mark key="[" line="24" column="1" />
+        <mark key="]" line="27" column="16" />
+        <mark key="^" line="27" column="16" />
+        <mark key="." line="27" column="16" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="0" column="0" filename="$USER_HOME$/gamedev/monogame/Rogue/Rogue/Program.cs" />
+      <jump line="13" column="0" filename="$USER_HOME$/gamedev/monogame/Rogue/Rogue/Program.cs" />
+      <jump line="16" column="18" filename="$USER_HOME$/gamedev/monogame/Rogue/Rogue/Program.cs" />
+      <jump line="8" column="11" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/Main.js" />
+      <jump line="43" column="21" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/RemoveUI.js" />
+      <jump line="27" column="9" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/RemoveUI.js" />
+      <jump line="100" column="16" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/RemoveUI.js" />
+      <jump line="78" column="93" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/utils/uiRemoval.js" />
+      <jump line="143" column="22" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/utils/codeRemoval.js" />
+      <jump line="69" column="0" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/utils/codeRemoval.js" />
+      <jump line="141" column="27" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/utils/analysis.js" />
+      <jump line="133" column="2" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/utils/analysis.js" />
+      <jump line="159" column="6" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/utils/analysis.js" />
+      <jump line="21" column="27" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/RemoveCode.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/RemoveCode.js" />
+      <jump line="49" column="21" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/utils/parse.js" />
+      <jump line="50" column="43" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/utils/parse.js" />
+      <jump line="96" column="21" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/utils/parse.js" />
+      <jump line="108" column="21" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/utils/parse.js" />
+      <jump line="135" column="14" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/DataTables/DataTable.js" />
+      <jump line="171" column="17" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/DataTables/DataTable.js" />
+      <jump line="7" column="14" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/DataTables/DataTable.js" />
+      <jump line="8" column="10" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/DataTables/DataTable.js" />
+      <jump line="11" column="30" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/DataTables/DataTable.js" />
+      <jump line="12" column="24" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/DataTables/DataTable.js" />
+      <jump line="13" column="31" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/DataTables/DataTable.js" />
+      <jump line="16" column="27" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/DataTables/DataTable.js" />
+      <jump line="28" column="20" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/DataTables/DataTable.js" />
+      <jump line="67" column="29" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/DataTables/DataTable.js" />
+      <jump line="69" column="29" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/DataTables/DataTable.js" />
+      <jump line="103" column="58" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/DataTables/DataTable.js" />
+      <jump line="138" column="42" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/DataTables/DataTable.js" />
+      <jump line="25" column="20" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/DataTables/DataTable.js" />
+      <jump line="70" column="41" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/DataTables/DataTable.js" />
+      <jump line="49" column="100" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/RemoveCode.js" />
+      <jump line="2" column="8" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/DataTables/MethodCell.js" />
+      <jump line="10" column="24" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/DataTables/MethodCell.js" />
+      <jump line="84" column="6" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/RemoveCode.js" />
+      <jump line="87" column="4" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/DataTables/DataTable.js" />
+      <jump line="139" column="44" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/DataTables/DataTable.js" />
+      <jump line="38" column="17" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/DataTables/DataTable.js" />
+      <jump line="104" column="22" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/RemoveCode.js" />
+      <jump line="105" column="24" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/RemoveCode.js" />
+      <jump line="97" column="0" filename="$USER_HOME$/kryptowire/dev/androcutter-react/test_data/apk/smali/com/google/android/gms/cast/CastDevice.smali" />
+      <jump line="118" column="14" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/RemoveCode.js" />
+      <jump line="139" column="37" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/RemoveCode.js" />
+      <jump line="51" column="8" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/RemoveCode.js" />
+      <jump line="52" column="16" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/RemoveCode.js" />
+      <jump line="124" column="16" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/RemoveCode.js" />
+      <jump line="76" column="1" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/RemoveCode.js" />
+      <jump line="108" column="81" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/utils/analysis.js" />
+      <jump line="167" column="37" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/utils/analysis.js" />
+      <jump line="146" column="35" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/utils/analysis.js" />
+      <jump line="138" column="37" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/RemoveCode.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/RemoveCode.js" />
+      <jump line="79" column="43" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/RemoveCode.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/kryptowire/dev/androcutter-react/test_data/apk/res/layout/account_login_buttons.xml" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>jks</text>
+      </register>
+      <register name="j" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="-" type="4">
+        <text>jks</text>
+      </register>
+      <register name="m" type="4">
+        <keys>
+          <key char="120" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="/" type="4">
+        <text>facebook</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB7IGxhYmVsOiAnU21hbGkgRmlsZScsIGtleU5hbWU6ICdzbWFsaV9maWxlJywgZmlsdGVyYWJsZTogZmFsc2UsIGNvbXBvbmVudDogU21hbGlGaWxlQ2VsbCB9Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB7IGxhYmVsOiAnUGFyYW1zJywga2V5TmFtZTogJ3BhcmFtcycsIGZpbHRlcmFibGU6IGZhbHNlLCBjb21wb25lbnQ6IFBhcmFtc0NlbGwgfSwK</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="114" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB7IGxhYmVsOiAnUGFyYW1zJywga2V5TmFtZTogJ3BhcmFtcycsIGZpbHRlcmFibGU6IGZhbHNlLCBjb21wb25lbnQ6IFBhcmFtc0NlbGwgfSwKICAgICAgICB7IGxhYmVsOiAnU21hbGkgRmlsZScsIGtleU5hbWU6ICdzbWFsaV9maWxlJywgZmlsdGVyYWJsZTogZmFsc2UsIGNvbXBvbmVudDogU21hbGlGaWxlQ2VsbCB9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB7IGxhYmVsOiAnUGFyYW1zJywga2V5TmFtZTogJ3BhcmFtcycsIGZpbHRlcmFibGU6IGZhbHNlLCBjb21wb25lbnQ6IFBhcmFtc0NlbGwgfSwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgRmlsZToge3Byb3BzLnZhbHVlLmZpbGUuc3BsaXQoJy9zbWFsaS8nKVsxXX0gPGJyIC8+IExpbmUgbnVtYmVyOiB7cHJvcHMudmFsdWUubGluZV9udW19Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB7IGxhYmVsOiAnTGluZSBOdW1iZXInLCBrZXlOYW1lOiAnbGluZV9udW0nLCBmaWx0ZXJhYmxlOiBmYWxzZSB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB7IGxhYmVsOiAnU21hbGkgRmlsZScsIGtleU5hbWU6ICdzbWFsaV9maWxlJywgZmlsdGVyYWJsZTogZmFsc2UgfSwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHRhYmxlQ29sdW1ucyA9IFsKICAgICAgeyBsYWJlbDogJ0NhdGVnb3J5Jywga2V5TmFtZTogJ2NhdGVnb3J5JywgZmlsdGVyYWJsZTogdHJ1ZSB9LAogICAgICB7CiAgICAgICAgbGFiZWw6ICdNZXRob2QnLAogICAgICAgIGtleU5hbWU6ICdtZXRob2QnLAogICAgICAgIGZpbHRlcmFibGU6IHRydWUsCiAgICAgICAgY29tcG9uZW50OiBNZXRob2RDZWxsCiAgICAgIH0sCiAgICAgIHsgbGFiZWw6ICdTbWFsaSBGaWxlJywga2V5TmFtZTogJ3NtYWxpX2ZpbGUnLCBmaWx0ZXJhYmxlOiBmYWxzZSB9LAogICAgICB7IGxhYmVsOiAnTGluZSBOdW1iZXInLCBrZXlOYW1lOiAnbGluZV9udW0nLCBmaWx0ZXJhYmxlOiBmYWxzZSB9CiAgICBdCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIH0pCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>action SaveAll</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>facebook</last-search>
+      <last-offset />
+      <last-pattern>facebook</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>game2</entry>
+        <entry>start and</entry>
+        <entry>startAnaly</entry>
+        <entry>start emu</entry>
+        <entry>emul</entry>
+        <entry>nested</entry>
+        <entry>props</entry>
+        <entry>filterablekeys</entry>
+        <entry>CrCell</entry>
+        <entry>code rem</entry>
+        <entry>tr</entry>
+        <entry>onrowcli</entry>
+        <entry>changefil</entry>
+        <entry>getbyname</entry>
+        <entry>removemethod</entry>
+        <entry>build</entry>
+        <entry>start ana</entry>
+        <entry>loaddy</entry>
+        <entry>facebook</entry>
+      </history-search>
+      <history-cmd>
+        <entry>actionlist vim</entry>
+        <entry>actionlist save</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action Close</entry>
+        <entry>actionlist close</entry>
+        <entry>action CloseActiveTab</entry>
+        <entry>W</entry>
+        <entry>action CloseContent</entry>
+        <entry>w</entry>
+        <entry>75</entry>
+        <entry>98</entry>
+        <entry>45</entry>
+        <entry>143</entry>
+        <entry>139</entry>
+        <entry>action NextTab</entry>
+        <entry>974</entry>
+        <entry>122</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action PreviousTab</entry>
+        <entry>action SaveAll</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

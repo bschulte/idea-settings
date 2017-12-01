@@ -1,0 +1,8 @@
+<templateSet group="React">
+  <template name="rcc" value="import React, { Component } from 'react'&#10;&#10;class $className$ extends Component {&#10;    constructor(props) {&#10;        super(props)&#10;        &#10;        this.state = {&#10;        }&#10;    }&#10;    &#10;    render() {&#10;        return (&#10;            &lt;div /&gt;&#10;        )&#10;    }&#10;}&#10;&#10;export default $className$" description="React Class Component" toReformat="false" toShortenFQNames="true">
+    <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
