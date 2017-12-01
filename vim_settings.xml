@@ -198,6 +198,12 @@
         <mark key="^" line="27" column="16" />
         <mark key="." line="27" column="16" />
       </file>
+      <file name="$USER_HOME$/kryptowire/dev/enterprise-portal-v2-client-react/src/components/Header/Header.js" timestamp="1512161443072">
+        <mark key="[" line="21" column="3" />
+        <mark key="]" line="22" column="2" />
+        <mark key="." line="22" column="2" />
+        <mark key="^" line="22" column="2" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/gamedev/monogame/Rogue/Rogue/Program.cs" />
@@ -264,7 +270,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IEFwa1JlYWRlciBmcm9tICdub2RlLWFway1wYXJzZXInCg==</text>
+        <text encoding="base64">ICAgIGEgPSBiCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -301,7 +307,7 @@
         <text encoding="base64">ICAgICAgICB7IGxhYmVsOiAnU21hbGkgRmlsZScsIGtleU5hbWU6ICdzbWFsaV9maWxlJywgZmlsdGVyYWJsZTogZmFsc2UsIGNvbXBvbmVudDogU21hbGlGaWxlQ2VsbCB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IEFwa1JlYWRlciBmcm9tICdub2RlLWFway1wYXJzZXInCg==</text>
+        <text encoding="base64">ICAgIGEgPSBiCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -320,28 +326,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuCg==</text>
+        <text encoding="base64">aW1wb3J0IEFwa1JlYWRlciBmcm9tICdub2RlLWFway1wYXJzZXInCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7IGxhYmVsOiAnUGFyYW1zJywga2V5TmFtZTogJ3BhcmFtcycsIGZpbHRlcmFibGU6IGZhbHNlLCBjb21wb25lbnQ6IFBhcmFtc0NlbGwgfSwK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7IGxhYmVsOiAnUGFyYW1zJywga2V5TmFtZTogJ3BhcmFtcycsIGZpbHRlcmFibGU6IGZhbHNlLCBjb21wb25lbnQ6IFBhcmFtc0NlbGwgfSwKICAgICAgICB7IGxhYmVsOiAnU21hbGkgRmlsZScsIGtleU5hbWU6ICdzbWFsaV9maWxlJywgZmlsdGVyYWJsZTogZmFsc2UsIGNvbXBvbmVudDogU21hbGlGaWxlQ2VsbCB9Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB7IGxhYmVsOiAnUGFyYW1zJywga2V5TmFtZTogJ3BhcmFtcycsIGZpbHRlcmFibGU6IGZhbHNlLCBjb21wb25lbnQ6IFBhcmFtc0NlbGwgfSwK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB7IGxhYmVsOiAnUGFyYW1zJywga2V5TmFtZTogJ3BhcmFtcycsIGZpbHRlcmFibGU6IGZhbHNlLCBjb21wb25lbnQ6IFBhcmFtc0NlbGwgfSwKICAgICAgICB7IGxhYmVsOiAnU21hbGkgRmlsZScsIGtleU5hbWU6ICdzbWFsaV9maWxlJywgZmlsdGVyYWJsZTogZmFsc2UsIGNvbXBvbmVudDogU21hbGlGaWxlQ2VsbCB9Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgRmlsZToge3Byb3BzLnZhbHVlLmZpbGUuc3BsaXQoJy9zbWFsaS8nKVsxXX0gPGJyIC8+IExpbmUgbnVtYmVyOiB7cHJvcHMudmFsdWUubGluZV9udW19Cg==</text>
+        <text encoding="base64">ICAgICAgICB7IGxhYmVsOiAnUGFyYW1zJywga2V5TmFtZTogJ3BhcmFtcycsIGZpbHRlcmFibGU6IGZhbHNlLCBjb21wb25lbnQ6IFBhcmFtc0NlbGwgfSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7IGxhYmVsOiAnTGluZSBOdW1iZXInLCBrZXlOYW1lOiAnbGluZV9udW0nLCBmaWx0ZXJhYmxlOiBmYWxzZSB9Cg==</text>
+        <text encoding="base64">ICAgICAgRmlsZToge3Byb3BzLnZhbHVlLmZpbGUuc3BsaXQoJy9zbWFsaS8nKVsxXX0gPGJyIC8+IExpbmUgbnVtYmVyOiB7cHJvcHMudmFsdWUubGluZV9udW19Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7IGxhYmVsOiAnU21hbGkgRmlsZScsIGtleU5hbWU6ICdzbWFsaV9maWxlJywgZmlsdGVyYWJsZTogZmFsc2UgfSwK</text>
+        <text encoding="base64">ICAgICAgICB7IGxhYmVsOiAnTGluZSBOdW1iZXInLCBrZXlOYW1lOiAnbGluZV9udW0nLCBmaWx0ZXJhYmxlOiBmYWxzZSB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
