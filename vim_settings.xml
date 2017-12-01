@@ -89,10 +89,10 @@
         <mark key="." line="29" column="36" />
         <mark key="^" line="29" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512148528964">
+      <file name="/Dummy.txt" timestamp="1512160061683">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="35" />
+        <mark key="." line="0" column="35" />
       </file>
       <file name="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/Navbar.js" timestamp="1511922244080">
         <mark key="[" line="15" column="14" />
