@@ -52,18 +52,11 @@
         <mark key="." line="14" column="42" />
         <mark key="^" line="14" column="42" />
       </file>
-      <file name="$USER_HOME$/kryptowire/dev/test-python/test.py" timestamp="1512147486487">
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/kryptowire/dev/androcutter-react/app/utils/analysis.js" timestamp="1511983110563">
-        <mark key="'" line="168" column="37" />
-        <mark key="[" line="84" column="9" />
-        <mark key="]" line="84" column="4" />
-        <mark key="." line="84" column="4" />
-        <mark key="^" line="84" column="4" />
+      <file name="$USER_HOME$/kryptowire/dev/androcutter-react/app/utils/analysis.js" timestamp="1512148593375">
+        <mark key="'" line="77" column="10" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="39" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/DataTables/SmaliFile.js" timestamp="1511978196094">
         <mark key="[" line="10" column="15" />
@@ -96,10 +89,10 @@
         <mark key="." line="29" column="36" />
         <mark key="^" line="29" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511976753325">
+      <file name="/Dummy.txt" timestamp="1512162987257">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="35" />
+        <mark key="." line="0" column="35" />
       </file>
       <file name="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/Navbar.js" timestamp="1511922244080">
         <mark key="[" line="15" column="14" />
@@ -156,6 +149,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/kryptowire/dev/enterprise-portal-v2-client-react/src/logic/util.js" timestamp="1512162963182">
+        <mark key="'" line="28" column="34" />
+        <mark key="[" line="28" column="83" />
+        <mark key="]" line="28" column="121" />
+        <mark key="^" line="28" column="121" />
+        <mark key="." line="28" column="121" />
+      </file>
       <file name="$USER_HOME$/kryptowire/dev/androcutter-react/app/utils/uiRemoval.js" timestamp="1511920699275">
         <mark key="[" line="12" column="10" />
         <mark key="]" line="12" column="33" />
@@ -193,6 +193,12 @@
         <mark key="." line="6" column="55" />
         <mark key="^" line="6" column="55" />
       </file>
+      <file name="$USER_HOME$/kryptowire/dev/enterprise-portal-v2-client-react/src/components/AnalyzedApps/AnalyzedApp.js" timestamp="1512163005522">
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="14" column="8" />
+        <mark key="^" line="14" column="8" />
+        <mark key="." line="14" column="8" />
+      </file>
       <file name="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/RemoveCode.js" timestamp="1511978704741">
         <mark key="[" line="141" column="37" />
         <mark key="]" line="141" column="46" />
@@ -204,6 +210,12 @@
         <mark key="]" line="27" column="16" />
         <mark key="^" line="27" column="16" />
         <mark key="." line="27" column="16" />
+      </file>
+      <file name="$USER_HOME$/kryptowire/dev/enterprise-portal-v2-client-react/src/components/Header/Header.js" timestamp="1512161443072">
+        <mark key="[" line="21" column="3" />
+        <mark key="]" line="22" column="2" />
+        <mark key="." line="22" column="2" />
+        <mark key="^" line="22" column="2" />
       </file>
     </filemarks>
     <jumps>
@@ -264,10 +276,16 @@
       <jump line="1" column="0" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/RemoveCode.js" />
       <jump line="79" column="43" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/components/RemoveCode.js" />
       <jump line="7" column="0" filename="$USER_HOME$/kryptowire/dev/androcutter-react/test_data/apk/res/layout/account_login_buttons.xml" />
+      <jump line="81" column="30" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/utils/analysis.js" />
+      <jump line="82" column="62" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/utils/analysis.js" />
+      <jump line="77" column="10" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/utils/analysis.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/kryptowire/dev/androcutter-react/app/utils/analysis.js" />
+      <jump line="27" column="27" filename="$USER_HOME$/kryptowire/dev/enterprise-portal-v2-client-react/src/logic/util.js" />
+      <jump line="28" column="34" filename="$USER_HOME$/kryptowire/dev/enterprise-portal-v2-client-react/src/logic/util.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CnJlcXVlc3RzLnBvc3QoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>index</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -275,7 +293,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>test, thing, what</text>
+        <text>index</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -298,13 +316,14 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>facebook</text>
+        <text>fine</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB7IGxhYmVsOiAnU21hbGkgRmlsZScsIGtleU5hbWU6ICdzbWFsaV9maWxlJywgZmlsdGVyYWJsZTogZmFsc2UsIGNvbXBvbmVudDogU21hbGlGaWxlQ2VsbCB9Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CnJlcXVlc3RzLnBvc3QoKQo=</text>
+      <register name="1" type="4">
+        <text>{
+    } else {</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -323,47 +342,42 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7IGxhYmVsOiAnUGFyYW1zJywga2V5TmFtZTogJ3BhcmFtcycsIGZpbHRlcmFibGU6IGZhbHNlLCBjb21wb25lbnQ6IFBhcmFtc0NlbGwgfSwK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7IGxhYmVsOiAnUGFyYW1zJywga2V5TmFtZTogJ3BhcmFtcycsIGZpbHRlcmFibGU6IGZhbHNlLCBjb21wb25lbnQ6IFBhcmFtc0NlbGwgfSwKICAgICAgICB7IGxhYmVsOiAnU21hbGkgRmlsZScsIGtleU5hbWU6ICdzbWFsaV9maWxlJywgZmlsdGVyYWJsZTogZmFsc2UsIGNvbXBvbmVudDogU21hbGlGaWxlQ2VsbCB9Cg==</text>
+        <text encoding="base64">ICAgIGEgPSBiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7IGxhYmVsOiAnUGFyYW1zJywga2V5TmFtZTogJ3BhcmFtcycsIGZpbHRlcmFibGU6IGZhbHNlLCBjb21wb25lbnQ6IFBhcmFtc0NlbGwgfSwK</text>
+        <text encoding="base64">aW1wb3J0IEFwa1JlYWRlciBmcm9tICdub2RlLWFway1wYXJzZXInCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgRmlsZToge3Byb3BzLnZhbHVlLmZpbGUuc3BsaXQoJy9zbWFsaS8nKVsxXX0gPGJyIC8+IExpbmUgbnVtYmVyOiB7cHJvcHMudmFsdWUubGluZV9udW19Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7IGxhYmVsOiAnTGluZSBOdW1iZXInLCBrZXlOYW1lOiAnbGluZV9udW0nLCBmaWx0ZXJhYmxlOiBmYWxzZSB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB7IGxhYmVsOiAnU21hbGkgRmlsZScsIGtleU5hbWU6ICdzbWFsaV9maWxlJywgZmlsdGVyYWJsZTogZmFsc2UgfSwK</text>
+        <text encoding="base64">ICAgICAgICB7IGxhYmVsOiAnUGFyYW1zJywga2V5TmFtZTogJ3BhcmFtcycsIGZpbHRlcmFibGU6IGZhbHNlLCBjb21wb25lbnQ6IFBhcmFtc0NlbGwgfSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7IGxhYmVsOiAnUGFyYW1zJywga2V5TmFtZTogJ3BhcmFtcycsIGZpbHRlcmFibGU6IGZhbHNlLCBjb21wb25lbnQ6IFBhcmFtc0NlbGwgfSwKICAgICAgICB7IGxhYmVsOiAnU21hbGkgRmlsZScsIGtleU5hbWU6ICdzbWFsaV9maWxlJywgZmlsdGVyYWJsZTogZmFsc2UsIGNvbXBvbmVudDogU21hbGlGaWxlQ2VsbCB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHRhYmxlQ29sdW1ucyA9IFsKICAgICAgeyBsYWJlbDogJ0NhdGVnb3J5Jywga2V5TmFtZTogJ2NhdGVnb3J5JywgZmlsdGVyYWJsZTogdHJ1ZSB9LAogICAgICB7CiAgICAgICAgbGFiZWw6ICdNZXRob2QnLAogICAgICAgIGtleU5hbWU6ICdtZXRob2QnLAogICAgICAgIGZpbHRlcmFibGU6IHRydWUsCiAgICAgICAgY29tcG9uZW50OiBNZXRob2RDZWxsCiAgICAgIH0sCiAgICAgIHsgbGFiZWw6ICdTbWFsaSBGaWxlJywga2V5TmFtZTogJ3NtYWxpX2ZpbGUnLCBmaWx0ZXJhYmxlOiBmYWxzZSB9LAogICAgICB7IGxhYmVsOiAnTGluZSBOdW1iZXInLCBrZXlOYW1lOiAnbGluZV9udW0nLCBmaWx0ZXJhYmxlOiBmYWxzZSB9CiAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgICB7IGxhYmVsOiAnUGFyYW1zJywga2V5TmFtZTogJ3BhcmFtcycsIGZpbHRlcmFibGU6IGZhbHNlLCBjb21wb25lbnQ6IFBhcmFtc0NlbGwgfSwK</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
       </register>
     </registers>
     <search>
-      <last-search>facebook</last-search>
+      <last-search>fine</last-search>
       <last-offset />
-      <last-pattern>facebook</last-pattern>
+      <last-pattern>fine</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>game2</entry>
-        <entry>start and</entry>
-        <entry>startAnaly</entry>
-        <entry>start emu</entry>
-        <entry>emul</entry>
         <entry>nested</entry>
         <entry>props</entry>
         <entry>filterablekeys</entry>
@@ -378,17 +392,17 @@
         <entry>start ana</entry>
         <entry>loaddy</entry>
         <entry>facebook</entry>
+        <entry>codepah</entry>
+        <entry>codepath</entry>
+        <entry>render</entry>
+        <entry>can_access_int</entry>
+        <entry>can_access_fine</entry>
+        <entry>fine</entry>
       </history-search>
       <history-cmd>
-        <entry>actionlist vim</entry>
-        <entry>actionlist save</entry>
-        <entry>source ~/.ideavimrc</entry>
-        <entry>action Close</entry>
-        <entry>actionlist close</entry>
         <entry>action CloseActiveTab</entry>
         <entry>W</entry>
         <entry>action CloseContent</entry>
-        <entry>w</entry>
         <entry>75</entry>
         <entry>98</entry>
         <entry>45</entry>
@@ -397,6 +411,12 @@
         <entry>action NextTab</entry>
         <entry>974</entry>
         <entry>122</entry>
+        <entry>actionlist redo</entry>
+        <entry>action $Redo</entry>
+        <entry>actionlist everywhere</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>w</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action PreviousTab</entry>
         <entry>action SaveAll</entry>
@@ -452,6 +472,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
